@@ -1,0 +1,25 @@
+body {
+    font-family: 'Tahoma', sans-serif;
+}
+nav a,
+footer a {
+    padding: 0 1em 0 0;
+}
+
+h1,
+h2 {
+    color: #a06a06;
+}
+h2, h2 + p {
+    display: inline;
+}
+a {
+    color: #a06a06;  
+}
+a:hover {
+    text-decoration: none;
+}
+footer p {
+    font-style: italics;
+    font-size: 70%;
+}
